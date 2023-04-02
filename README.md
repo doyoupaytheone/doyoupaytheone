@@ -35,9 +35,6 @@ My Favorite Resturants in Baltimore, Maryland
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 [LinkedIn](https://www.linkedin.com/in/justin-simmons-75736689/) 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[Facebook](https://www.facebook.com/jmoneydopeboi)
-
 
 <!--
 **doyoupaytheone/doyoupaytheone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
