@@ -4,31 +4,31 @@
 🔭 **_Currently Working_:** 
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
- As a Systems Engineer at Northrop Grumman
+ As a software engineer at Northrop Grumman
 
 
 🌱 **_Currently Learning_:** 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-About Docker & Shell Scripting
+About DevOps practices using Jenkins and SonarQube
 
 
 🤔 **_Looking For_:** 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-Any Interesting Opporunities to Grow as a Person
+Any interesting opporunities to grow as a person
 
 
 ⚡ **_Fun Fact_:** 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-I was Previously in a Metal Band
+I was peviously in amMetal band
 
 
 💬 **_Ask Me About_:** 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-My Favorite Resturants in Baltimore, Maryland
+My favorite resturants in Baltimore, Maryland
 
 
 📫 **_How to Reach Me_:** 
