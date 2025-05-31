@@ -22,7 +22,7 @@ Any interesting opporunities to grow as a person
 ⚡ **_Fun Fact_:** 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-I was peviously in a Metal band
+I was peviously in a metal band
 
 
 💬 **_Ask Me About_:** 
