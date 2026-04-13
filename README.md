@@ -4,13 +4,13 @@
 🔭 **_Currently Working_:** 
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
- As a software engineer at Northrop Grumman
+ As a software engineer on my own personal project; ArcaneMetriX
 
 
 🌱 **_Currently Learning_:** 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-About DevOps practices using Jenkins and SonarQube
+About AI harness engineering
 
 
 🤔 **_Looking For_:** 
